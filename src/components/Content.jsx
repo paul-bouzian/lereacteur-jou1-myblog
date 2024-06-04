@@ -1,5 +1,4 @@
 import Item from "./Content/Item";
-import Footer from "./Footer";
 import "./Content.css";
 
 const Content = () => {
@@ -33,7 +32,6 @@ const Content = () => {
           }}
         />
       </div>
-      <Footer />
     </main>
   );
 };
